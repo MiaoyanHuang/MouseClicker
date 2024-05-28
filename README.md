@@ -1,8 +1,8 @@
 # Simple Mouse Clicker with Interface
 ### Features
 * Selectable clicking speeds
-*  Press F8 to start clicking events with a single key (implemented global keyboard event listening, enabling clicking events even when the program is in the background or minimized. Pressing F8 in other applications also starts clicking events)
-*  More features to be developed...
+* Press F8 to start clicking events with a single key (Implemented global keyboard event listening. Pressing F8 in other applications also trigger clicking events, even when the program is in the background or minimized)
+* More features to be developed...
 
 
 # 简易的可视化鼠标连点器
